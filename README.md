@@ -1,4 +1,4 @@
-# Sergio Pinto - zeitteck.github.io 📫
+# Sergio Pinto - zeitteck.github.io :books:
 Pagina de prueba GitHub - M06
 Hola mi gente, estamos en mi página principal
 
